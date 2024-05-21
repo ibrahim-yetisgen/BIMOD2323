@@ -1,4 +1,4 @@
-https://bimodguncelkonular.netlify.app
+https://bimod.azurewebsites.net
 
 FIRAT ÜNİVERSİTESİ YAZILIM MÜHENDİSLİĞİ GÜNCEL KONULAR DERSİ DÖNEM PROJESİ İÇİN AÇILMIŞTIR.
 
